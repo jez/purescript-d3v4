@@ -3,7 +3,6 @@ module D3.Drag where
 import Control.Monad.Eff (Eff)
 import D3.Base (D3, D3Element, Typenames, Index, D3Typenames)
 import DOM.Event.Types (Event)
-import Data.Array ((:))
 import Data.Function.Eff (EffFn3, EffFn2, runEffFn2, runEffFn3)
 import Data.Nullable (Nullable)
 import Prelude (Unit, show)

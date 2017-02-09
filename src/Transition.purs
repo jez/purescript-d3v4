@@ -43,7 +43,7 @@ import D3.Selection (Selection)
 import Data.Function.Eff (mkEffFn2, mkEffFn3, EffFn3, EffFn2, EffFn1, runEffFn3, runEffFn2, runEffFn1)
 import Data.Maybe (Maybe)
 import Data.Nullable (toMaybe, Nullable)
-import Prelude (($), (<$>))
+import Prelude ((<$>))
 
 foreign import data Transition :: * -> *
 

@@ -36,7 +36,7 @@ import DOM.Event.Types (EventType)
 import Data.Function.Eff (EffFn5, EffFn3, EffFn2, EffFn4, EffFn1, runEffFn5, runEffFn3, runEffFn2, runEffFn1, mkEffFn2, mkEffFn4)
 import Data.Maybe (Maybe)
 import Data.Nullable (toMaybe, Nullable)
-import Prelude (Unit, ($), (<$>))
+import Prelude (Unit, (<$>))
 
 foreign import data Selection :: * -> *
 
