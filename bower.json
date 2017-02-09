@@ -4,6 +4,10 @@
     "**/.*",
     "node_modules",
     "bower_components",
+    "examples",
+    "test",
+    "html",
+    "templates",
     "output"
   ],
   "dependencies": {

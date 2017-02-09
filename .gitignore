@@ -1,10 +1,10 @@
-/bower_components/
-/node_modules/
-/.pulp-cache/
-/output/
-/.psci*
-/src/.webpack.js
-/.psc-ide-port
+bower_components/
+node_modules/
+.pulp-cache/
+output/
+.psci*
+src/.webpack.js
+.psc-ide-port
 /html/app.js
 examples/*/bower_components
 examples/*/output
